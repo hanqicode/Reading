@@ -3,9 +3,9 @@ Good to read for software engineers.
 
 ## In Progress
 - Reading/Computer Networking - 286/889
+- Designing Data-Intensive Applications
 
 ## To-do List
-  - Designing Data-Intensive Applications
   - Domain Driven Design
   - Redis Cookbook
   - Clean Architecture
