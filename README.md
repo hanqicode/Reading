@@ -2,7 +2,7 @@
 Good to read for software engineers.
 
 ## In Progress
-- Designing Data-Intensive Applications - 168/545
+- Designing Data-Intensive Applications - 175/545
 - Reading/Computer Networking - 286/889
 
 ## To-do List
