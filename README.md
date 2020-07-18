@@ -2,15 +2,14 @@
 Good to read for software engineers.
 
 ## In Progress
-- Designing Data-Intensive Applications - 161/545
+- Designing Data-Intensive Applications - 168/545
 - Reading/Computer Networking - 286/889
 
 ## To-do List
   - Domain Driven Design
-  - Redis Cookbook
   - Clean Architecture
-  - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
   - Designing Distrubuted Systems
+  - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
   - Make Sense of Stream Processing
   - (Google search **Amazon O'Reilly Media**)
 
