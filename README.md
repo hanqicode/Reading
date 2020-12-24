@@ -2,7 +2,7 @@
 Good to read for software engineers.
 
 ## In Progress
-- Designing Data-Intensive Applications - 339/545
+- Designing Data-Intensive Applications
 
 ## To-do List
   - Domain Driven Design
