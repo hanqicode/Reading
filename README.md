@@ -19,4 +19,3 @@ All books can be found in Google drive. List by read order.
 - A Philosophy of Software Design
 - Building Evolutionary Architechtures: Support Constant Change
 - Java Design Pattern
-- Spock Up & Running
