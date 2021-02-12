@@ -14,8 +14,13 @@ Good to read for software engineers.
 
 ## Complete
 All books can be found in Google drive. List by read order.
+
+### Coding
 - Effective Java
 - Clean Code
+- Java Design Pattern
+
+### System
 - A Philosophy of Software Design
 - Building Evolutionary Architechtures: Support Constant Change
-- Java Design Pattern
+
