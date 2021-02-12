@@ -13,8 +13,6 @@ Good to read for software engineers.
   - (Google search **Amazon O'Reilly Media**)
 
 ## Complete
-All books can be found in Google drive. List by read order.
-
 ### Coding
 - Effective Java
 - Clean Code
