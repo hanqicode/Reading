@@ -2,7 +2,7 @@
 Good to read for software engineers.
 
 ## In Progress
-- Designing Data-Intensive Applications - 228/613
+- Designing Data-Intensive Applications - 231/613
 
 ## To-do List
   - ModernJavaRecipes
