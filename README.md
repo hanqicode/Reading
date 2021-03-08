@@ -5,7 +5,6 @@ Good to read for software engineers.
 - Designing Data-Intensive Applications - 295/613
 
 ## To-do List
-  - Modern Java Recipes
   - Domain Driven Design
   - Clean Architecture
   - Designing Distrubuted Systems
