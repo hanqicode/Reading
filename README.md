@@ -3,7 +3,7 @@ Good to read for software engineers.
 > Domain dictates tech implementation.
 
 ## In Progress
-- Domain Driven Design - 77/795
+- Domain Driven Design - 87/795
 
 ## To-do List
 - Clean Architecture
