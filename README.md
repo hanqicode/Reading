@@ -6,6 +6,7 @@ Good to read for software engineers.
 - Domain Driven Design - 87/795
 
 ## To-do List
+- Software Engineering at Google
 - Clean Architecture
 - Designing Distrubuted Systems
 - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
