@@ -3,10 +3,10 @@ Good to read for software engineers.
 > Domain dictates tech implementation.
 
 ## In Progress
+- Modern Java Recipes - 1/???
 - Domain Driven Design - 94/795
 
 ## To-do List
-- Modern Java Recipes
 - Software Engineering at Google
 - Clean Architecture
 - Designing Distrubuted Systems
