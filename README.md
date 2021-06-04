@@ -6,7 +6,7 @@ Good to read for software engineers.
 - Domain Driven Design - 94/795
 
 ## To-do List
-- Learning SQL
+- Learning SQL (PerkTree)
 - Software Engineering at Google
 - Clean Architecture
 - Designing Distrubuted Systems
