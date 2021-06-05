@@ -1,5 +1,4 @@
 # Reading
-Good to read for software engineers.
 > Domain dictates tech implementation.
 
 ## In Progress
