@@ -1,4 +1,6 @@
 # Reading
+> A developer's purpose is not to code; it's to solve problems. 
+> 
 > Domain dictates tech implementation.
 
 ## In Progress
