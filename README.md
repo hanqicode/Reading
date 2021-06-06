@@ -4,7 +4,7 @@
 > Domain dictates tech implementation.
 
 ## In Progress
-- Domain Driven Design - 98/795
+- Domain Driven Design - 137/795
 
 ## To-do List
 - Learning SQL (PerkTree)
