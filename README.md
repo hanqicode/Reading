@@ -8,6 +8,7 @@
 
 ## To-do List
 - Learning SQL (PerkTree)
+- JavaConcurrencyInPractice (PerkTree)
 - Software Engineering at Google
 - Clean Architecture
 - Designing Distrubuted Systems
