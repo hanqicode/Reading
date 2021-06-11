@@ -5,9 +5,9 @@
 
 ## In Progress
 - Domain Driven Design - 137/795
+- Learning SQL (PerkTree) - 1/456
 
 ## To-do List
-- Learning SQL (PerkTree)
 - JavaConcurrencyInPractice (PerkTree)
 - Software Engineering at Google
 - Clean Architecture
