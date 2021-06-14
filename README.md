@@ -5,7 +5,7 @@
 
 ## In Progress
 - Domain Driven Design - 137/795
-- Learning SQL (PerkTree) - 1/456
+- Learning SQL (PerkTree) - 121/456
 
 ## To-do List
 - JavaConcurrencyInPractice (PerkTree)
