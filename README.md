@@ -5,7 +5,6 @@
 
 ## In Progress
 - Domain Driven Design - 137/795
-- Learning SQL (PerkTree) - 255/456
 
 ## To-do List
 - JavaConcurrencyInPractice (PerkTree)
@@ -21,6 +20,7 @@
 - Effective Java
 - Clean Code
 - Java Design Pattern
+- Learning SQL
 
 ### Design
 - A Philosophy of Software Design
